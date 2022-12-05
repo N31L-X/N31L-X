@@ -3,7 +3,7 @@
 </br>
 
 - My day job has me writting code and putting out fires. 
-- I write mostly Ansible, Python, & PowerShell Scripts but I've started bratching out to Rust & Go.
+- I write mostly Ansible, Python, & PowerShell but I've started bratching out to Rust & Go.
 
 <img align="center" alt="GIF" height="300" src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif"/>
 
@@ -65,3 +65,4 @@
 <img src="https://img.shields.io/badge/Apple-000?logo=apple&logoColor=fff&style=flat-square">
 <img src="https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat-square">
 <img src="https://img.shields.io/badge/Dell-007DB8?logo=dell&logoColor=fff&style=flat-square">
+</p>
