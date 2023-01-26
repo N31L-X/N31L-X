@@ -1,11 +1,13 @@
 <h1 align="center">Hello There</h1>
-<h3 align="center">I am a Dom. A SysAdmin, Security & Infrastructure enthusiast, & Gamer.</h3>
+<h3 align="center">I am a Dom. A Systems Engineer, Security Enthusiast, & Gamer.</h3>
 </br>
 
 - My day job has me writting code and putting out fires. 
 - I write mostly Ansible, Python, & PowerShell but I've started bratching out to Rust & Go.
 
-<img align="center" alt="GIF" height="300" src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif"/>
+<p align="center">
+ <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" alt="GIF" height="300"/>
+ </p>
 
 ---
 
