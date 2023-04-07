@@ -4,13 +4,13 @@
 - My day job has me architecting solutions, writting code(IaC) and sometimes putting out fires.
 - I am a big fan of automation and have a passion for security. As such, I am always looking for ways to improve my skills and knowledge.
 
+<h3 align= "center" > Looking for my work account? Check out <a href="https://github.com/B4D-TP/B4D-TP">B4D-TP </a> </h3>
+
 <p align="center">
  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" alt="GIF" height="300"/>
  </p>
 
-## My Certifications
-
-## My Experience and Interests
+## Some of my Experience and Interests
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
