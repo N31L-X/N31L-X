@@ -28,4 +28,4 @@
 
 ## :mailbox: How to reach me
 
-- **Website:** [SND BX Design](https:\\www.sndbxdesign.com)
+- **Website:** [SND BX Design](https://www.sndbxdesign.com)
