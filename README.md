@@ -10,10 +10,6 @@
  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" alt="GIF" height="300"/>
  </p>
 
-## :books: Certifications
-
-- **Azure:** Azure Administrator Associate, Azure Developer Associate, Azure Security Engineer Associate, Azure Solutions Architect Expert, Azure DevOps Engineer Expert
-- **CompTIA:** Security+, Network+, A+, Linux+, Cloud+, CySA+, CASP+
 
 ## :computer: Technologies
 
