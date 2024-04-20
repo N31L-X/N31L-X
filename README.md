@@ -16,7 +16,7 @@
 - Some technologies I have experience with include:
   - **Cloud:** AWS & Azure
   - **DevOps:** Terraform, Ansible, Docker, Kubernetes, GitHub, GitOps, & Bicep
-  - **Programming:** Python, Bash, PowerShell, C#, C++, Go, JavaScript, & TypeScript
+  - **Programming:** Python, Bash, PowerShell, C#, C++, Go, Rust, & TypeScript
   - **Security:** Wireshark, Nessus, Nmap, Metasploit, Kali Linux, Burp Suite, OWASP ZAP, OpenVAS, & Metasploit
   - **Operating Systems:** Windows, Linux, & Mac
   - **Virtualization:** VMware, & Hyper-V
