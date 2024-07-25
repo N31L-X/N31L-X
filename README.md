@@ -8,6 +8,7 @@
 Feel free to customize and make it your own! 🚀🔥
 
 # 💻 Tech Stack
+<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center">
 
   <img alt="Windows 11" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" style="margin:5px" />
   <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin:5px" />
@@ -39,6 +40,7 @@ Feel free to customize and make it your own! 🚀🔥
   <img alt="Rocky Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rockylinux/rockylinux-original.svg" style="margin:5px" />
   <img alt="Ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" style="margin:5px" />
 
+</div>
 
 # 📊 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=@N31L-X&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
